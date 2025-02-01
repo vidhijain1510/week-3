@@ -1,4 +1,4 @@
-/*Counting Sort - Sort Student Ages
+/*Counting Sort - Sort Student Age
 Problem Statement:
 A school collects students’ ages (ranging from 10 to 18) and wants them sorted. Implement Counting Sort for this task.
 Hint:
