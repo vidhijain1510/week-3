@@ -1,4 +1,4 @@
-/*Heap Sort - Sort Job Applicants by Salary
+/*Heap Sort - Sort Job Applicants  by Salary
 Problem Statement:
 A company receives job applications with different expected salary demands.
 Implement Heap Sort to sort these salary demands in ascending order.
