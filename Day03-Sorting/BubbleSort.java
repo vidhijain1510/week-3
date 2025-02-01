@@ -1,4 +1,4 @@
-/*Bubble Sort - Sort Student Marks
+/*Bubble Sort - Sort Student Mark
 Problem Statement:
 A school maintains student marks in an array. Implement Bubble Sort to sort the student marks in ascending order.
 Hint:
