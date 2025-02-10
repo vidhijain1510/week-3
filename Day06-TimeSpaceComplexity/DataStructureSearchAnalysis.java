@@ -2,7 +2,7 @@
 Objective:
 Compare Array (O(N)), HashSet (O(1)), and TreeSet (O(log N)) for searching elements.
 Approach:
-Array: Linear search (O(N)).
+Array: Linear search (O(N)). 
 HashSet: Uses hashing (O(1) on average).
 TreeSet: Balanced BST (O(log N)).
 
